@@ -1,0 +1,25 @@
+{
+  "name": "test-cypress",
+  "version": "1.0.0",
+  "description": "quick boilerplate for cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChrisCapper/test-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChrisCapper/test-cypress/issues"
+  },
+  "homepage": "https://github.com/ChrisCapper/test-cypress#readme",
+  "devDependencies": {
+    "cypress": "^3.1.5",
+    "mocha": "^5.2.0",
+    "mochawesome": "^3.1.1"
+  }
+}
